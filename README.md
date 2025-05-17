@@ -1,5 +1,11 @@
 
-# Django Chat Application
+# Real-Time Chat Server Django-Rest-Framework
+  ## *Company*: CODTECH IT SOLUTIONS
+  ## *NAME*: ANIL KUMAR SINGH
+  ## *INTERN ID*: CT06DA413
+  ## *DOMAIN*: BACK END DEVELOPMENT
+  ## *DURATION*: 6 WEEKS
+  ## *MENTOR*: NEELA SANTOSH
 
 A chat application built using django rest framework. The 
 user can search other users and add them as a friend and have 
